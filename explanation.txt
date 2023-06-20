@@ -1,0 +1,1 @@
+This file is intented to contain explanation of stack
